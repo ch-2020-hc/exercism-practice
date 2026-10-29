@@ -1,9 +1,10 @@
-# C and C++ practice
+# C, C++ and ARM64-Assembly practice
 
 Solutions from the Exercism C track, two Exercism C++ exercises, and short embedded-style snippets I wrote while practicing (ring buffer, motor state machine, PI controller, register bit macros).
 
 ## Layout
 
+- `arm64/exercism` — Exercism ARM64 solutions.
 - `c/exercism` — Exercism C solutions. Each have a small `main.c` driver
 - `c/practice` — my own snippets: ring buffer, FSM, PI control, bitwise macros, pointers, strings, structs
 - `cpp/exercism` — Exercism C++ solutions.
